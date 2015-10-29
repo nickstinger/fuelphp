@@ -1,5 +1,7 @@
 # FuelPHP
 
+[![Join the chat at https://gitter.im/nickstinger/fuelphp](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nickstinger/fuelphp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 * Version: 2.0
 * [Website](http://fuelphp.com/)
 * [Release Documentation](http://docs.fuelphp.com)
